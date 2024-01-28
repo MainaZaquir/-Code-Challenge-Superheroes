@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # -Code-Challenge-Superheroes
-=======
+
 # Flask Code Challenge - Superheroes
 
 For this assessment, you'll be working on an API for tracking heroes and their
@@ -260,4 +260,4 @@ JSON data, along with the appropriate HTTP status code:
   "errors": ["validation errors"]
 }
 ```
->>>>>>> 67494ef (Done)
+
