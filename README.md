@@ -1,5 +1,5 @@
 
-# -Code-Challenge-Superheroes
+# Code-Challenge-Superheroes
 
 # Flask Code Challenge - Superheroes
 
